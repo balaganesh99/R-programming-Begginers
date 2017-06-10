@@ -30,3 +30,19 @@ typeof(q1)
 
 q2 <- T 
 typeof(q2)
+
+#Assigning Variables
+
+a <- 10
+b <- 20 
+first_name <- "abc"
+last_name <- "def"
+
+c <- paste(first_name,last_name)
+c
+
+# Operators
+
+5 < 3
+4 != 5
+
